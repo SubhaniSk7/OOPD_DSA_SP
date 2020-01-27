@@ -1,4 +1,4 @@
-package SP.Lab4;
+
 //SUBHANI SHAIK
 
 //MT18117
@@ -47,3 +47,4 @@ public class MT18117_Lab4 {
 		familyThread.start();
 	}
 }
+

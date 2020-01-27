@@ -1,4 +1,4 @@
-package SP.Lab4;
+
 //SUBHANI SHAIK
 
 //MT18117
@@ -25,3 +25,4 @@ public class FamilyInfo extends GenericInfo {
 	}
 
 }
+

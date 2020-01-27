@@ -1,4 +1,3 @@
-package SP.Lab4;
 
 //SUBHANI SHAIK
 
@@ -26,3 +25,4 @@ public class PersonalInfo extends GenericInfo {
 	}
 
 }
+

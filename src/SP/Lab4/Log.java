@@ -1,4 +1,4 @@
-package SP.Lab4;
+
 //	SUBHANI SHAIK
 
 //	MT18117
@@ -25,7 +25,7 @@ public class Log extends Thread {
 		familyInfo.setCity(city);
 	}
 
-	public synchronized void printCompleteInfo(String threadName) {// printing info
+	public void printCompleteInfo(String threadName) {// printing info
 
 		System.out
 				.println("\n----------------------------------------------------------\nCalling Thread:" + threadName);
@@ -39,3 +39,4 @@ public class Log extends Thread {
 				+ "\n----------------------------------------------------------");
 	}
 }
+
